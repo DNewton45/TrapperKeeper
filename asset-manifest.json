@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/DNewton45/TrapperKeeper/static/js/main.6d2a25da.chunk.js",
-    "main.js.map": "/DNewton45/TrapperKeeper/static/js/main.6d2a25da.chunk.js.map",
-    "runtime-main.js": "/DNewton45/TrapperKeeper/static/js/runtime-main.c5967fd4.js",
-    "runtime-main.js.map": "/DNewton45/TrapperKeeper/static/js/runtime-main.c5967fd4.js.map",
-    "static/js/2.89cd8d66.chunk.js": "/DNewton45/TrapperKeeper/static/js/2.89cd8d66.chunk.js",
-    "static/js/2.89cd8d66.chunk.js.map": "/DNewton45/TrapperKeeper/static/js/2.89cd8d66.chunk.js.map",
-    "index.html": "/DNewton45/TrapperKeeper/index.html",
-    "precache-manifest.ba2123744bc95c4bd1e6d5aa6a0248aa.js": "/DNewton45/TrapperKeeper/precache-manifest.ba2123744bc95c4bd1e6d5aa6a0248aa.js",
-    "service-worker.js": "/DNewton45/TrapperKeeper/service-worker.js",
-    "static/js/2.89cd8d66.chunk.js.LICENSE.txt": "/DNewton45/TrapperKeeper/static/js/2.89cd8d66.chunk.js.LICENSE.txt"
+    "main.js": "./static/js/main.6d2a25da.chunk.js",
+    "main.js.map": "./static/js/main.6d2a25da.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.24c86ffe.js",
+    "runtime-main.js.map": "./static/js/runtime-main.24c86ffe.js.map",
+    "static/js/2.89cd8d66.chunk.js": "./static/js/2.89cd8d66.chunk.js",
+    "static/js/2.89cd8d66.chunk.js.map": "./static/js/2.89cd8d66.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.15ab886dc33a8e6c3ccac1af7d065143.js": "./precache-manifest.15ab886dc33a8e6c3ccac1af7d065143.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.89cd8d66.chunk.js.LICENSE.txt": "./static/js/2.89cd8d66.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5967fd4.js",
+    "static/js/runtime-main.24c86ffe.js",
     "static/js/2.89cd8d66.chunk.js",
     "static/js/main.6d2a25da.chunk.js"
   ]
